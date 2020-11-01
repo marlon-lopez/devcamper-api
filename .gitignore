@@ -1,3 +1,2 @@
-config
 node_modules
-seeder.js
+config/config.env.env
